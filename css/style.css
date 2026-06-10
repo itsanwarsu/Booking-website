@@ -179,7 +179,7 @@ html {
         min-height: 700px;
         width: 100%;
         background: 
-        url('../img/hero.png');
+        url('img/hero.png');
         
         background-size: cover;
         background-position: center;
@@ -703,7 +703,7 @@ html {
   rgba(0,0,0,.55),
   rgba(0,0,0,.55)
   ),
-  url("../img/cta.png");
+  url("img/cta.png");
 
   background-size: cover;
   background-position: center;
