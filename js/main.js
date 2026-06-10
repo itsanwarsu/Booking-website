@@ -1,4 +1,4 @@
-functfunction initHamburger() {
+function initHamburger() {
      
      const hamburger = document.querySelector(".hamburger");
      const menu = document.querySelector(".mobile-menu");
